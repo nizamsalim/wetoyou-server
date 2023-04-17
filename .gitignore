@@ -1,0 +1,7 @@
+.env
+node_modules
+.vscode
+notes
+Models/OtpModel.ts
+**/temp/
+Config/secret_key.json
